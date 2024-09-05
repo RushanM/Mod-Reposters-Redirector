@@ -1,8 +1,10 @@
 // ==UserScript==
+// @name            Mod Reposters Redirector
+// @name:ru         Перенаправление с сайтов-репостеров модов
 // @author          Deflecta
 // @contributionURL https://boosty.to/rushanm
 // @description     Allows searching for mods on CurseForge and Modrinth from reposter websites
-// @description:ru  Позволяет искать моды на CurseForge и Modrinth с сайтов-репостеров
+// @description:ru  Позволяет переходить на официальные источники с сайтов-репостеров
 // @downloadURL     
 // @grant           none
 // @homepageURL     https://rushan.neocities.org/
@@ -10,8 +12,6 @@
 // @license         MIT
 // @match           https://modrinth.com/mods*
 // @match           https://ru-minecraft.ru/mody-minecraft*
-// @name            Mod Reposters Redirector
-// @name:ru         Перенаправление с сайтов-репостеров модов
 // @namespace       http://tampermonkey.net/
 // @supportURL      
 // @updateURL       
